@@ -2,6 +2,8 @@
 
 Puts the Super+Space menu and the Super+Alt+Space app list in the screen corner next to the Omarchy menu button, like a start menu.
 
+![The Omarchy menu open in the corner beside the menu button](screenshots/start-menu.png)
+
 | Bar | Overlays open at |
 | --- | --- |
 | bottom | bottom left |
